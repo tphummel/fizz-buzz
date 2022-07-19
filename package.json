@@ -1,7 +1,7 @@
 {
-  "name": "@tphummel/node-app",
+  "name": "@tphummel/fizz-buzz",
   "version": "1.0.0",
-  "description": "node starter app boilerplate",
+  "description": "",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:tphummel/node-app.git"
+    "url": "git@github.com:tphummel/fizz-buzz.git"
   },
   "keywords": [],
   "author": {
@@ -22,9 +22,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tphummel/node-app/issues"
+    "url": "https://github.com/tphummel/fizz-buzz/issues"
   },
-  "homepage": "https://github.com/tphummel/node-app",
+  "homepage": "https://github.com/tphummel/fizz-buzz",
   "devDependencies": {
     "standard": "latest",
     "tap": "latest"
