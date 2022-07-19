@@ -11,4 +11,8 @@
 npm test
 ```
 
-# usage
+# notes
+
+revisiting FizzBuzz with fresh eyes prior to reading:
+
+https://blog.tdwright.co.uk/2022/07/14/fizzbuzz-is-fizzbuzz-years-old-and-still-a-powerful-tool/
