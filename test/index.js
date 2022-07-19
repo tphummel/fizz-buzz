@@ -17,3 +17,8 @@ tap.test('3 -> Fizz', (t) => {
   t.equal(lib(3), 'Fizz')
   t.end()
 })
+
+tap.test('5 -> Buzz', (t) => {
+  t.equal(lib(5), 'Buzz')
+  t.end()
+})
