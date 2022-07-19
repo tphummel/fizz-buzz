@@ -1,5 +1,7 @@
 'use strict'
 
-module.exports = function () {
-  return true
+function fizzBuzz (input) {
+  return 1
 }
+
+module.exports = fizzBuzz

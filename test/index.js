@@ -7,3 +7,8 @@ tap.test('first test', function (t) {
   t.ok(lib())
   t.end()
 })
+
+tap.test('1 -> 1', (t) => {
+  t.equal(lib(1), 1)
+  t.end()
+})
