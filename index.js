@@ -7,7 +7,7 @@ function fizzBuzz (input) {
   if (divBy3 && divBy5) return 'FizzBuzz'
   if (divBy3) return 'Fizz'
   if (divBy5) return 'Buzz'
-  return input
+  return `${input}`
 }
 
 module.exports = fizzBuzz

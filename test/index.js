@@ -4,7 +4,7 @@ const tap = require('tap')
 const lib = require('..')
 
 tap.test('1 -> 1', (t) => {
-  t.equal(lib(1), 1)
+  t.equal(lib(1), '1')
   t.end()
 })
 
